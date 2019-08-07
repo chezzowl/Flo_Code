@@ -1,13 +1,12 @@
-// ConcoleApp_Integration_Test.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include "pch.h"
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
-	std::cout << "TEST" << std::endl;
+    cout << "Hello World!\n" << endl; 
+	cout << "TEST" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
